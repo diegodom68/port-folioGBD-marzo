@@ -14,7 +14,7 @@ Para hacer consultas un poco mas avanzadas es necesario este tipo de instruccion
 * Cross Join.
 
 Para introducirnos en las otras tablas necesitamos que estén conectadas entre ellas,es decir, que tengan un PK y FK
-![](https://raw.githubusercontent.com/diegodom68/port-folioGBD-marzo/main/clases.jpg)
+![](https://raw.githubusercontent.com/diegodom68/port-folioGBD-marzo/main/Portfolio/clases.jpg)
 
 Como vemos en este esquema de una base de datos real, las tablas están relacionadas entre sí. Explicacion de cuando usar cada join:
 * Natural -->   Cuando en dos tablas tenemos **solo** dos columnas con este nombre. Una en cada tabla. Si tenemos dos columnas en cada tabla que coincidan ya no podremos usarlo.
@@ -26,6 +26,6 @@ Estos join solo sacan datos que cumplan estas referencias(join) pero en el caso 
 ## Reflexiones Personales
 En estos temas se ha dado un avance en la materia muy importante. Ya que cada vez nos acercamos más a las consultas que hace un gestor de una base de datos, y nos acercamos más a las consultas del mundo laboral. Creo que este tema en general ha sido muy positivo para el concimiento sobre una base de datos, si que es verdad qué en las consultas hay muchas cosas que es muy dificil saberse de memoria. Todos los caracteres y símbolos de las expresiones regulares es practicamente imposible saberse todos con certeza, eso podría ser un punto negativo del tema. Pero en general creo que tiene cosas más positivas que negativas.
 ## Ejercicios Significativos
-![](https://raw.githubusercontent.com/diegodom68/port-folioGBD-marzo/main/Ejer-geo25.jpg)
+![](https://raw.githubusercontent.com/diegodom68/port-folioGBD-marzo/main/Portfolio/Ejer-geo25.jpg)
 
 Esta consulta 25 de la práctica 18 (bd:geografía) tiene una dificultad muy elevada, pero a mi me sirvió mucho para entender el funcionamiento de los join, los group by, los totales, etc.
