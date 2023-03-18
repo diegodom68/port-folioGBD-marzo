@@ -15,3 +15,14 @@ Para hacer consultas un poco mas avanzadas es necesario este tipo de instruccion
 
 Para introducirnos en las otras tablas necesitamos que estén conectadas entre ellas,es decir, que tengan un PK y FK
 ![](https://raw.githubusercontent.com/diegodom68/port-folioGBD-marzo/main/clases.jpg)
+
+Como vemos en este esquema de una base de datos real, las tablas están relacionadas entre sí. Explicacion de cuando usar cada join:
+* Natural -->   Cuando en dos tablas tenemos **solo** dos columnas con este nombre. Una en cada tabla. Si tenemos dos columnas en cada tabla que coincidan ya no podremos usarlo.
+* Join on --> Para cuando dos tablas estan referenciadas pero el nombre de la columna es distinto entonces dentro del on (nombre1=nombre2)
+* Join using --> Cuando hay en una tabla dos columnas con el mismo nombre pero si hay mas de una referencia, especificamos que referencia queremos usar.
+* Cross Join --> Se utiliza para hacer comparaciones horizontales, se traduce como producto cruzado. 
+
+Estos join solo sacan datos que cumplan estas referencias(join) pero en el caso de querer sacar tambien los datos que no la cumplan se utilizan *Outer Joins*. Cuando ya manejas todo este tipo de consultas, se pasa a ver las agrupaciones (Group By), que se utiliza en consulta de totales. Pero esto se ve en los siguientes temas.
+## Reflexiones Personales
+En estos temas se ha dado un avance en la materia muy importante. Ya que cada vez nos acercamos más a las consultas que hace un gestor de una base de datos, y nos acercamos más a las consultas del mundo laboral. Creo que este tema en general ha sido muy positivo para el concimiento sobre una base de datos, si que es verdad qué en las consultas hay muchas cosas que es muy dificil saberse de memoria. Todos los caracteres y símbolos de las expresiones regulares es practicamente imposible saberse todos con certeza, eso podría ser un punto negativo del tema. Pero en general creo que tiene cosas más positivas que negativas.
+## Ejercicios Significativos
