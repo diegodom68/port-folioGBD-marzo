@@ -7,8 +7,10 @@ Cuando vimos estos apartados, entramos en profundidad con las expresiones regula
 * REGEXP_INSTR
 * REGEXP_COUNT
 * REGEXP_REPLACE
+
 Para hacer consultas un poco mas avanzadas es necesario este tipo de instrucciones. Las expresiones son tan buenas gracias a la posibilidad del uso de caracteres y simbolos en ellas. Este tema comprendia solo consultas sobre una tablas, pero hemos visto la posibilidad de hacer consultas sobre más de una tabla. En este apartado las consultas se van pareciendo más a las que podría hacer un gestor de base de datos. La palabra clave en este tema va a ser **JOIN**, ya que esta se usa para poder introducirnos en las demás tablas. Existen varios tipos de *join*.
 * Natural Join, 
 * Join on/using
 * Cross Join.
+
 Para introducirnos en las otras tablas necesitamos que estén conectadas entre ellas,es decir, que tengan un PK y FK
