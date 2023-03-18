@@ -26,3 +26,6 @@ Estos join solo sacan datos que cumplan estas referencias(join) pero en el caso 
 ## Reflexiones Personales
 En estos temas se ha dado un avance en la materia muy importante. Ya que cada vez nos acercamos más a las consultas que hace un gestor de una base de datos, y nos acercamos más a las consultas del mundo laboral. Creo que este tema en general ha sido muy positivo para el concimiento sobre una base de datos, si que es verdad qué en las consultas hay muchas cosas que es muy dificil saberse de memoria. Todos los caracteres y símbolos de las expresiones regulares es practicamente imposible saberse todos con certeza, eso podría ser un punto negativo del tema. Pero en general creo que tiene cosas más positivas que negativas.
 ## Ejercicios Significativos
+![](https://raw.githubusercontent.com/diegodom68/port-folioGBD-marzo/main/Ejer-geo25.jpg)
+
+Esta consulta 25 de la práctica 18 (bd:geografía) tiene una dificultad muy elevada, pero a mi me sirvió mucho para entender el funcionamiento de los join, los group by, los totales, etc.
