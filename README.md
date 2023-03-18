@@ -28,17 +28,25 @@ En estos temas se ha dado un avance en la materia muy importante. Ya que cada ve
 ## Ejercicios Significativos
 ![](https://raw.githubusercontent.com/diegodom68/port-folioGBD-marzo/main/Portfolio/Ejer-geo25.jpg)
 
-Esta consulta 25 de la práctica 18 (bd:geografía) tiene una dificultad muy elevada, pero a mi me sirvió mucho para entender el funcionamiento de los join, los group by, los totales, etc.
+Esta consulta 25 de la práctica 18 (bd:geografía) tiene una dificultad muy elevada, pero a mi me sirvió mucho para entender el funcionamiento de los join, los group by, los 
+totales, etc.
+
 ![](https://raw.githubusercontent.com/diegodom68/port-folioGBD-marzo/main/Portfolio/ejer10-geo.jpg)
 
 Mostrar las provincias cuyo nombre de capital es distinto del nombre de la provincia; esta consulta me resultó muy  buena ya que se puede asemejar a la vida real.
+
 ![](https://raw.githubusercontent.com/diegodom68/port-folioGBD-marzo/main/Portfolio/ejer7-padre.jpg)
 
 Muestra el nombre de las madres que hayan tenido hijos con padres distintos (conocidos)
+
 ![](https://raw.githubusercontent.com/diegodom68/port-folioGBD-marzo/main/Portfolio/ejer10-padre.jpg)
+
 Mostrar el nombre (por pares) de todas las personas que son hermanos del mismo padre (aunque no lo sean de la madre).
+
 ![](https://raw.githubusercontent.com/diegodom68/port-folioGBD-marzo/main/Portfolio/ejer3-nba.jpg)
+
 Mostrar, por pares, los nombres y ciudades de equipos que han alojado a la misma franquicia. Primeras filas (ordenado por id_franquicia, nombre de equipo y ciudad).
+
 ## Ejercicios Invencíon Propia
 Ejercicios que yo inventaría para aprender sobre este tema:
 1.
