@@ -14,3 +14,4 @@ Para hacer consultas un poco mas avanzadas es necesario este tipo de instruccion
 * Cross Join.
 
 Para introducirnos en las otras tablas necesitamos que estén conectadas entre ellas,es decir, que tengan un PK y FK
+![](https://raw.githubusercontent.com/diegodom68/port-folioGBD-marzo/main/clases.pdf)
